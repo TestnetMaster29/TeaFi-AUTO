@@ -1,7 +1,5 @@
 # teafi-auto-bot
 
-## CHANNEL TELEGRAM JOIN HERE
-[KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial)
 
 ## Preparation before starting
 - **Permit Sign manual / swap WPOL to TPOL 1x manual on web before run script**
@@ -34,3 +32,5 @@ example:   **"ITERATIONS": 200,** so total swap 200x swapped
 node bot.js
 ```
 ![](teafi.jpg)
+
+Last updated:
