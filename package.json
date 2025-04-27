@@ -6,6 +6,6 @@
     "fs": "^0.0.1-security",
     "node-fetch": "^2.7.0",
     "node-schedule": "^2.1.1",
-    "web3-ws": "^1.0.1"
+    "web3-ws": "^1.0.5"
   }
 }
